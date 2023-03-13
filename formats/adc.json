@@ -1,0 +1,88 @@
+{
+    "champions": {
+        "Aphelios": {
+            "note": "yes"
+        },
+        "Ashe": {
+            "note": "yes"
+        },
+        "Azir": {
+            "note": "adc"
+        },
+        "Bard": {
+            "note": "adc"
+        },
+        "Caitlyn": {
+            "note": "yes"
+        },
+        "Corki": {
+            "note": "yes"
+        },
+        "Draven": {
+            "note": "yes"
+        },
+        "Ezreal": {
+            "note": "yes"
+        },
+        "Graves": {
+            "note": "yes"
+        },
+        "Jhin": {
+            "note": "yes"
+        },
+        "Jinx": {
+            "note": "yes"
+        },
+        "Kai'Sa": {
+            "note": "yes"
+        },
+        "Kalista": {
+            "note": "yes"
+        },
+        "Kindred": {
+            "note": "yes"
+        },
+        "Kog'Maw": {
+            "note": "yes"
+        },
+        "Lucian": {
+            "note": "yes"
+        },
+        "Miss Fortune": {
+            "note": "yes"
+        },
+        "Quinn": {
+            "note": "yes"
+        },
+        "Senna": {
+            "note": "yes"
+        },
+        "Sivir": {
+            "note": "yes"
+        },
+        "Teemo": {
+            "note": "adc"
+        },
+        "Thresh": {
+            "note": "adc"
+        },
+        "Tristana": {
+            "note": "yes"
+        },
+        "Twisted Fate": {
+            "note": "adc"
+        },
+        "Varus": {
+            "note": "yes"
+        },
+        "Vayne": {
+            "note": "yes"
+        },
+        "Xayah": {
+            "note": "yes"
+        },
+        "Zeri": {
+            "note": "yes"
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "champions": {
+        "Ahri": {
+            "note": "yes"
+        },
+        "Anivia": {
+            "note": "yes"
+        },
+        "Annie": {
+            "note": "yes"
+        },
+        "Aurelion Sol": {
+            "note": "yes"
+        },
+        "Azir": {
+            "note": "yes"
+        },
+        "Brand": {
+            "note": "yes"
+        },
+        "Cassiopeia": {
+            "note": "yes"
+        },
+        "Ekko": {
+            "note": "yes"
+        },
+        "Fiddlesticks": {
+            "note": "yes"
+        },
+        "Fizz": {
+            "note": "yes"
+        },
+        "Gragas": {
+            "note": "yes"
+        },
+        "Heimerdinger": {
+            "note": "yes"
+        },
+        "Janna": {
+            "note": "yes"
+        },
+        "Kai'Sa": {
+            "note": "ap"
+        },
+        "Karma": {
+            "note": "yes"
+        },
+        "Karthus": {
+            "note": "yes"
+        },
+        "Kassadin": {
+            "note": "yes"
+        },
+        "Katarina": {
+            "note": "yes"
+        },
+        "Kennen": {
+            "note": "yes"
+        },
+        "Kog'Maw": {
+            "note": "ap"
+        },
+        "LeBlanc": {
+            "note": "yes"
+        },
+        "Lillia": {
+            "note": "yes"
+        },
+        "Lissandra": {
+            "note": "yes"
+        },
+        "Lux": {
+            "note": "yes"
+        },
+        "Malzahar": {
+            "note": "yes"
+        },
+        "Miss Fortune": {
+            "note": "ap"
+        },
+        "Morgana": {
+            "note": "yes"
+        },
+        "Nidalee": {
+            "note": "ap"
+        },
+        "Orianna": {
+            "note": "yes"
+        },
+        "Rumble": {
+            "note": "yes"
+        },
+        "Ryze": {
+            "note": "yes"
+        },
+        "Shaco": {
+            "note": "ap"
+        },
+        "Swain": {
+            "note": "yes"
+        },
+        "Sylas": {
+            "note": "yes"
+        },
+        "Syndra": {
+            "note": "yes"
+        },
+        "Taliyah": {
+            "note": "yes"
+        },
+        "Veigar": {
+            "note": "yes"
+        },
+        "Vel'Koz": {
+            "note": "yes"
+        },
+        "Viktor": {
+            "note": "yes"
+        },
+        "Vladimir": {
+            "note": "yes"
+        },
+        "Xerath": {
+            "note": "yes"
+        },
+        "Ziggs": {
+            "note": "yes"
+        },
+        "Zoe": {
+            "note": "yes"
+        },
+        "Zyra": {
+            "note": "yes"
+        }
+    }
+}

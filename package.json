@@ -1,0 +1,15 @@
+{
+  "name": "arambot",
+  "version": "1.0.0",
+  "description": "uses the discord api to roll your aram picks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafcula de la schmetto",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}

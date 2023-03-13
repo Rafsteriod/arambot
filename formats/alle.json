@@ -1,0 +1,454 @@
+{
+    "champions": {
+        "Ahri": {
+            "note": "yes"
+        },
+        "Akali": {
+            "note": "yes"
+        },
+        "Alistar": {
+            "note": "yes"
+        },
+        "Amumu": {
+            "note": "yes"
+        },
+        "Anivia": {
+            "note": "yes"
+        },
+        "Annie": {
+            "note": "yes"
+        },
+        "Aphelios": {
+            "note": "yes"
+        },
+        "Ashe": {
+            "note": "yes"
+        },
+        "Aurelion Sol": {
+            "note": "yes"
+        },
+        "Azir": {
+            "note": "yes"
+        },
+        "Bard": {
+            "note": "yes"
+        },
+        "Blitzcrank": {
+            "note": "yes"
+        },
+        "Brand": {
+            "note": "yes"
+        },
+        "Braum": {
+            "note": "yes"
+        },
+        "Caitlyn": {
+            "note": "yes"
+        },
+        "Camille": {
+            "note": "yes"
+        },
+        "Cassiopeia": {
+            "note": "yes"
+        },
+        "Cho'Gath": {
+            "note": "yes"
+        },
+        "Corki": {
+            "note": "yes"
+        },
+        "Darius": {
+            "note": "yes"
+        },
+        "Diana": {
+            "note": "yes"
+        },
+        "Dr. Mundo": {
+            "note": "yes"
+        },
+        "Draven": {
+            "note": "yes"
+        },
+        "Ekko": {
+            "note": "yes"
+        },
+        "Elise": {
+            "note": "yes"
+        },
+        "Evelynn": {
+            "note": "yes"
+        },
+        "Ezreal": {
+            "note": "yes"
+        },
+        "Fiddlesticks": {
+            "note": "yes"
+        },
+        "Fiora": {
+            "note": "yes"
+        },
+        "Fizz": {
+            "note": "yes"
+        },
+        "Galio": {
+            "note": "yes"
+        },
+        "Gangplank": {
+            "note": "yes"
+        },
+        "Garen": {
+            "note": "yes"
+        },
+        "Gnar": {
+            "note": "yes"
+        },
+        "Gragas": {
+            "note": "yes"
+        },
+        "Graves": {
+            "note": "yes"
+        },
+        "Gwen": {
+            "note": "yes"
+        },
+        "Hecarim": {
+            "note": "yes"
+        },
+        "Heimerdinger": {
+            "note": "yes"
+        },
+        "Illaoi": {
+            "note": "yes"
+        },
+        "Irelia": {
+            "note": "yes"
+        },
+        "Ivern": {
+            "note": "yes"
+        },
+        "Janna": {
+            "note": "yes"
+        },
+        "Jarvan IV": {
+            "note": "yes"
+        },
+        "Jax": {
+            "note": "yes"
+        },
+        "Jayce": {
+            "note": "yes"
+        },
+        "Jhin": {
+            "note": "yes"
+        },
+        "Jinx": {
+            "note": "yes"
+        },
+        "Kai'Sa": {
+            "note": "yes"
+        },
+        "Kalista": {
+            "note": "yes"
+        },
+        "Karma": {
+            "note": "yes"
+        },
+        "Karthus": {
+            "note": "yes"
+        },
+        "Kassadin": {
+            "note": "yes"
+        },
+        "Katarina": {
+            "note": "yes"
+        },
+        "Kayle": {
+            "note": "yes"
+        },
+        "Kayn": {
+            "note": "yes"
+        },
+        "Kennen": {
+            "note": "yes"
+        },
+        "Kha'Zix": {
+            "note": "yes"
+        },
+        "Kindred": {
+            "note": "yes"
+        },
+        "Kled": {
+            "note": "yes"
+        },
+        "Kog'Maw": {
+            "note": "yes"
+        },
+        "LeBlanc": {
+            "note": "yes"
+        },
+        "Lee Sin": {
+            "note": "yes"
+        },
+        "Leona": {
+            "note": "yes"
+        },
+        "Lillia": {
+            "note": "yes"
+        },
+        "Lissandra": {
+            "note": "yes"
+        },
+        "Lucian": {
+            "note": "yes"
+        },
+        "Lulu": {
+            "note": "yes"
+        },
+        "Lux": {
+            "note": "yes"
+        },
+        "Malphite": {
+            "note": "yes"
+        },
+        "Malzahar": {
+            "note": "yes"
+        },
+        "Maokai": {
+            "note": "yes"
+        },
+        "Master Yi": {
+            "note": "yes"
+        },
+        "Miss Fortune": {
+            "note": "yes"
+        },
+        "Mordekaiser": {
+            "note": "yes"
+        },
+        "Morgana": {
+            "note": "yes"
+        },
+        "Nami": {
+            "note": "yes"
+        },
+        "Nasus": {
+            "note": "yes"
+        },
+        "Nautilus": {
+            "note": "yes"
+        },
+        "Neeko": {
+            "note": "yes"
+        },
+        "Nidalee": {
+            "note": "yes"
+        },
+        "Nocturne": {
+            "note": "yes"
+        },
+        "Nunu & Willump": {
+            "note": "yes"
+        },
+        "Olaf": {
+            "note": "yes"
+        },
+        "Orianna": {
+            "note": "yes"
+        },
+        "Ornn": {
+            "note": "yes"
+        },
+        "Pantheon": {
+            "note": "yes"
+        },
+        "Poppy": {
+            "note": "yes"
+        },
+        "Pyke": {
+            "note": "yes"
+        },
+        "Qiyana": {
+            "note": "yes"
+        },
+        "Quinn": {
+            "note": "yes"
+        },
+        "Rakan": {
+            "note": "yes"
+        },
+        "Rammus": {
+            "note": "yes"
+        },
+        "Rek'Sai": {
+            "note": "yes"
+        },
+        "Renekton": {
+            "note": "yes"
+        },
+        "Rengar": {
+            "note": "yes"
+        },
+        "Riven": {
+            "note": "yes"
+        },
+        "Rumble": {
+            "note": "yes"
+        },
+        "Ryze": {
+            "note": "yes"
+        },
+        "Sejuani": {
+            "note": "yes"
+        },
+        "Senna": {
+            "note": "yes"
+        },
+        "Sett": {
+            "note": "yes"
+        },
+        "Shaco": {
+            "note": "yes"
+        },
+        "Shen": {
+            "note": "yes"
+        },
+        "Shyvana": {
+            "note": "yes"
+        },
+        "Singed": {
+            "note": "yes"
+        },
+        "Sion": {
+            "note": "yes"
+        },
+        "Sivir": {
+            "note": "yes"
+        },
+        "Skarner": {
+            "note": "yes"
+        },
+        "Sona": {
+            "note": "yes"
+        },
+        "Soraka": {
+            "note": "yes"
+        },
+        "Swain": {
+            "note": "yes"
+        },
+        "Sylas": {
+            "note": "yes"
+        },
+        "Syndra": {
+            "note": "yes"
+        },
+        "Tahm Kench": {
+            "note": "yes"
+        },
+        "Taliyah": {
+            "note": "yes"
+        },
+        "Talon": {
+            "note": "yes"
+        },
+        "Taric": {
+            "note": "yes"
+        },
+        "Teemo": {
+            "note": "yes"
+        },
+        "Thresh": {
+            "note": "yes"
+        },
+        "Tristana": {
+            "note": "yes"
+        },
+        "Trundle": {
+            "note": "yes"
+        },
+        "Tryndamere": {
+            "note": "yes"
+        },
+        "Twisted Fate": {
+            "note": "yes"
+        },
+        "Twitch": {
+            "note": "yes"
+        },
+        "Udyr": {
+            "note": "yes"
+        },
+        "Urgot": {
+            "note": "yes"
+        },
+        "Varus": {
+            "note": "yes"
+        },
+        "Vayne": {
+            "note": "yes"
+        },
+        "Veigar": {
+            "note": "yes"
+        },
+        "Vel'Koz": {
+            "note": "yes"
+        },
+        "Vi": {
+            "note": "yes"
+        },
+        "Viktor": {
+            "note": "yes"
+        },
+        "Vladimir": {
+            "note": "yes"
+        },
+        "Volibear": {
+            "note": "yes"
+        },
+        "Warwick": {
+            "note": "yes"
+        },
+        "Wukong": {
+            "note": "yes"
+        },
+        "Xayah": {
+            "note": "yes"
+        },
+        "Xerath": {
+            "note": "yes"
+        },
+        "Xin Zhao": {
+            "note": "yes"
+        },
+        "Yasuo": {
+            "note": "yes"
+        },
+        "Yorick": {
+            "note": "yes"
+        },
+        "Yuumi": {
+            "note": "yes"
+        },
+        "Zac": {
+            "note": "yes"
+        },
+        "Zed": {
+            "note": "yes"
+        },
+        "Zeri": {
+            "note": "yes"
+        },
+        "Ziggs": {
+            "note": "yes"
+        },
+        "Zilean": {
+            "note": "yes"
+        },
+        "Zoe": {
+            "note": "yes"
+        },
+        "Zyra": {
+            "note": "yes"
+        }
+    }
+}
