@@ -1,4 +1,4 @@
-how2use:
+neue spieler hinzufügen:
 
 0. `.env` einrichten (siehe readme im hauptordner)
 1. `[player_name].json` file erstellen
