@@ -1,4 +1,4 @@
-how2use:
+neues format hinzufügen:
 
 0. .env einrichten (siehe readme im hauptordner)
 1. `[gamemode_name].json` file erstellen
