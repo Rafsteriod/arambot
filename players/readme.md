@@ -2,7 +2,8 @@ neue spieler hinzufügen:
 
 0. `.env` einrichten (siehe readme im hauptordner)
 1. `[player_name].json` file in `arambot/players/json` erstellen
-2. YUP/NOPE aus der gewünschten google sheet-spalte in .json file einfügen
+2. Namen aller Champions mit korrekter Rechtschreibung + per Zeilenumbruch getrennt in die .json file schreiben
+- Als Beispiel dient die `example.json` datei. Bei Interesse einfach öffnen und das Skript in Schritt 6 ausführen
 3. `const player` in zeile 5 zu `"[gamemode_name]"` umbenennen
 4. `const uid` in zeile 6 zur discord user-id des discord-accounts hinzufügen, dessen champions hinzugefügt werden sollen
 - hierfür auf discord `User Settings -> Advanced -> Developer Mode` aktivieren, auf die person in discord rechtsklicken -> `Copy ID` -> einfügen

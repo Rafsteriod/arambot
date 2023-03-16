@@ -10,7 +10,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 //const gamemode = "[FORMAT NAME HERE]"
-const gamemode = "alle"
+const gamemode = "example"
 
 const filename = gamemode + '.json'
 const filepath = path.join(__dirname, 'json', filename)
@@ -30,14 +30,18 @@ let filedata = JSON.parse(`{
     note: 'ad'
 }*/
 
-champList.forEach((champ, i) => {
-    if(rulings[i]!='no'){
+rulings.forEach(champ => {
+    let notes = champ.split('_');
+    champ = notes.shift()
+    if(champList.includes(champ)){
         filedata.champions[champ] = {
-            "note": `${rulings[i]}`
+            "note": `${notes ? notes.join(' ') : 'yes'}`
         }
-    } 
+    } else {
+        console.log(`Couldn't find ${champ}. Make sure championlist.txt is up2date and you spelled the name of ${champ} correctly!`)
+    }
 })
 
-console.log(filedata)
+//console.log(filedata)
 
 fs.writeFileSync(filepath, JSON.stringify(filedata))

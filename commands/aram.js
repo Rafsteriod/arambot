@@ -100,11 +100,11 @@ module.exports = {
             champArray.splice(rand, 1)
             //console.log(champArray.length)
             
-            const stringRep = (randomElement[1].note=="yes") ? randomElement[0] : randomElement[0] + `(${randomElement[1].note})`
+            const stringRep = (randomElement[1].note=="yes") ? randomElement[0] : randomElement[0] + ` (${randomElement[1].note})`
             choiceString += `${stringRep}, `
         }
         const randomElement = champArray[Math.floor(Math.random() * champArray.length)];
-        const stringRep = (randomElement[1].note=="yes") ? randomElement[0] : randomElement[0] + `(${randomElement[1].note})`
+        const stringRep = (randomElement[1].note=="yes") ? randomElement[0] : randomElement[0] + ` (${randomElement[1].note})`
         choiceString += `${stringRep}.`
 
         await interaction.reply({content: choiceString, ephemeral: true})

@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 //const player = "[FORMAT NAME HERE]"
-const player = "default"
+const player = "example"
 const uid = ""
 
 const filename = player + '.json'
@@ -24,10 +24,12 @@ let filedata = JSON.parse(`{
     note: 'ad'
 }*/
 
-champList.forEach((champ, i) => {
-    if(owned[i]=='YUP'){
+owned.forEach(champ => {
+    if(champList.includes(champ)){
         filedata.champions.push(champ)
-    } 
+    } else {
+        console.log(`Couldn't find ${champ}. Make sure championlist.txt is up2date and you spelled the name of ${champ} correctly!`)
+    }
 })
 
 console.log(filedata)
