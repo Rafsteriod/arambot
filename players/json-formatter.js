@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 //const player = "[FORMAT NAME HERE]"
-const player = ""
+const player = "default"
 const uid = ""
 
 const filename = player + '.json'

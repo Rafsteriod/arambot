@@ -6,6 +6,7 @@ const mid = require('../formats/json/mid.json');
 const adc = require('../formats/json/adc.json');
 const bruiser = require('../formats/json/bruiser.json');
 //spieler
+const defaultCollection = require('../players/json/default.json');
 const rafael = require('../players/json/rafael.json');
 const jan = require('../players/json/jan.json');
 const bene = require('../players/json/bene.json');
@@ -83,7 +84,8 @@ module.exports = {
                 userCollection = dominik.champions;
             break;
             default:
-                await interaction.reply({content: "kp welche champs du hast brudi, frag mal rafael. der ist cool", ephemeral: true})
+                await interaction.reply({content: "kp welche champs du hast, gönn dir mal alle", ephemeral: true})
+                userCollection = defaultCollection.champions;
             break;
         }
 
