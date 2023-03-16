@@ -6,7 +6,7 @@ const player = ""
 const uid = ""
 
 const filename = player + '.json'
-const filepath = path.join(__dirname, filename)
+const filepath = path.join(__dirname, 'json', filename)
 const champListPath = path.join(__dirname, "championlist.txt")
 
 let champList = fs.readFileSync(champListPath, {encoding:'utf8', flag:'r'}).split('\n');

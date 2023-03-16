@@ -1,16 +1,16 @@
 const { SlashCommandBuilder } = require('discord.js');
 //gamemodes
-const alle = require('../formats/alle.json');
-const nobruiser = require('../formats/nobruiser.json');
-const mid = require('../formats/mid.json');
-const adc = require('../formats/adc.json');
-const bruiser = require('../formats/bruiser.json');
+const alle = require('../formats/json/alle.json');
+const nobruiser = require('../formats/json/nobruiser.json');
+const mid = require('../formats/json/mid.json');
+const adc = require('../formats/json/adc.json');
+const bruiser = require('../formats/json/bruiser.json');
 //spieler
-const rafael = require('../players/rafael.json');
-const jan = require('../players/jan.json');
-const bene = require('../players/bene.json');
-const nick = require('../players/nick.json');
-const dominik = require('../players/dominik.json');
+const rafael = require('../players/json/rafael.json');
+const jan = require('../players/json/jan.json');
+const bene = require('../players/json/bene.json');
+const nick = require('../players/json/nick.json');
+const dominik = require('../players/json/dominik.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
