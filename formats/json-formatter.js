@@ -35,7 +35,7 @@ rulings.forEach(champ => {
     champ = notes.shift()
     if(champList.includes(champ)){
         filedata.champions[champ] = {
-            "note": `${notes ? notes.join(' ') : 'yes'}`
+            "note": `${notes.length ? notes.join(' ') : 'yes'}`
         }
     } else {
         console.log(`Couldn't find ${champ}. Make sure championlist.txt is up2date and you spelled the name of ${champ} correctly!`)
