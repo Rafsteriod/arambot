@@ -84,7 +84,7 @@ module.exports = {
                 userCollection = dominik.champions;
             break;
             default:
-                await interaction.reply({content: "kp welche champs du hast, gönn dir mal alle", ephemeral: true})
+                //await interaction.reply({content: "kp welche champs du hast, gönn dir mal alle", ephemeral: true})
                 userCollection = defaultCollection.champions;
             break;
         }
