@@ -5,6 +5,7 @@ const nobruiser = require('../formats/json/nobruiser.json');
 const mid = require('../formats/json/mid.json');
 const adc = require('../formats/json/adc.json');
 const bruiser = require('../formats/json/bruiser.json');
+const good = require('../formats/json/good.json');
 //spieler
 const defaultCollection = require('../players/json/default.json');
 const rafael = require('../players/json/rafael.json');
@@ -27,6 +28,7 @@ module.exports = {
                 {name: 'mid', value: 'mid'},
                 {name: 'bruiser', value: 'bruiser'},
                 {name: 'adc', value: 'adc'},
+                {name: 'good', value: 'good'},
             )
         ).addIntegerOption(option =>
             option.setName('anzahl')
@@ -56,6 +58,9 @@ module.exports = {
             break;
             case 'adc':
                 champions = adc.champions;
+            break;
+            case 'good':
+                champions = good.champions;
             break;
         }
 
@@ -89,6 +94,7 @@ module.exports = {
             break;
         }
 
+        //console.log(userCollection)
         let champArray = champArrayAll.filter(champ => userCollection.includes(champ[0]));
 
         //console.log(champArray)

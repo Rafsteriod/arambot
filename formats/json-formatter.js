@@ -10,7 +10,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 //const gamemode = "[FORMAT NAME HERE]"
-const gamemode = "example"
+const gamemode = ""
 
 const filename = gamemode + '.json'
 const filepath = path.join(__dirname, 'json', filename)
